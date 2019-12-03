@@ -1,0 +1,69 @@
+# sum
+def calc_sum(a: float, b:float) -> float:
+    '''Adds up two numbers
+    
+    Args:
+        a, b: Two float values
+    Returns:
+        The sum of a and b
+    '''
+    pass
+
+# math.ceil
+def calc_num(a: float) -> float:
+    '''rounds a float up
+    
+    Args:
+        a, : One float value
+    Returns:
+        The value of a rounded up
+    '''
+    pass
+
+# math.floor
+def calc_num(a: float) -> float:
+    '''rounds a float down
+    
+    Args:
+        a, : One float value
+    Returns:
+        The value of a rounded down
+    '''
+    pass
+
+
+# Function that takes a name and returns a message
+def name(name: str) -> str:
+    ''' Input your name and return a personal message
+    
+    Args:
+        name,: Your name
+    Returns:
+        A special message 
+    '''
+    pass
+    
+    
+
+
+# Function that takes two floats and finds their average.
+def calc_average(a: float, b: float) -> float:
+    ''' Adds up two float values and calculates the average.
+
+    Args:
+        a, b: Two float values inputted by the user.
+    Returns:
+        The sum divided by two.
+    '''
+    pass
+
+
+
+# Function that takes an age and returns True if they are of voting age
+def voting_age_eligibility(age: int) -> int:
+    '''Gets age and determines whether user can vote
+    
+    Args:
+        age: An integer value
+    Returns:
+        A message telling the user if he/she can vote
